@@ -20,6 +20,7 @@ A compilation of libraries, case studies, resources, datasets, and research pape
 ### Automatic Speech Recognition
 ### Music Information Retrieval
 ### Music Recommendation
+### Podcast Summarization
 
 ## Datasets
 - [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
