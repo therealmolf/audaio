@@ -22,5 +22,5 @@ A compilation of libraries, case studies, resources, datasets, and research pape
 ### Music Recommendation
 
 ## Datasets
-- Dataset 1
+- [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 - Dataset 2
