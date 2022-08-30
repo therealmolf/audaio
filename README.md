@@ -6,9 +6,9 @@ A compilation of libraries, case studies, resources, and research papers revolvi
 - Library 2
 
 ## Learning
-- Learning Resource 1
-- Learning Resource 2
+- [Essential Guide to ASR](https://developer.nvidia.com/blog/essential-guide-to-automatic-speech-recognition-technology/)
+- [The Future of Speech Recognition] (https://thegradient.pub/the-future-of-speech-recognition/)
 
 ## Research Papers
-- Paper 1
+- [Vocal Effort Modeling](https://machinelearning.apple.com/research/vocal-effort-modeling)
 - Paper 2
