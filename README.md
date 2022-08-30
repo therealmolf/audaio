@@ -19,3 +19,4 @@ A compilation of libraries, case studies, resources, and research papers revolvi
 ### Genre Recognition
 ### Automatic Speech Recognition
 ### Music Information Retrieval
+### Music Recommendation
