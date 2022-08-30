@@ -5,7 +5,7 @@ A compilation of libraries, case studies, resources, and research papers revolvi
 - Library 1
 - Library 2
 
-## Learning
+## Getting Started + Theory
 - [Essential Guide to ASR](https://developer.nvidia.com/blog/essential-guide-to-automatic-speech-recognition-technology/)
 - [The Future of Speech Recognition](https://thegradient.pub/the-future-of-speech-recognition/)
 
@@ -13,7 +13,9 @@ A compilation of libraries, case studies, resources, and research papers revolvi
 - [Vocal Effort Modeling](https://machinelearning.apple.com/research/vocal-effort-modeling)
 - Paper 2
 ### Audio Generation
-### Music Source Separation\
+* Learning Resource
+* Research Papers
+### Music Source Separation
 ### Genre Recognition
 ### Automatic Speech Recognition
 ### Music Information Retrieval
