@@ -12,3 +12,8 @@ A compilation of libraries, case studies, resources, and research papers revolvi
 ## Research Papers
 - [Vocal Effort Modeling](https://machinelearning.apple.com/research/vocal-effort-modeling)
 - Paper 2
+### Audio Generation
+### Music Source Separation\
+### Genre Recognition
+### Automatic Speech Recognition
+### Music Information Retrieval
