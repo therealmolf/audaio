@@ -11,7 +11,7 @@ A compilation of libraries, case studies, resources, datasets, and research pape
 
 ## Research Papers
 - [Vocal Effort Modeling](https://machinelearning.apple.com/research/vocal-effort-modeling)
-- Paper 2
+- [Improving Voice Trigger Detection](https://machinelearning.apple.com/research/improving-voice-trigger)
 ### Audio Generation
 * Learning Resource
 * Research Papers
