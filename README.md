@@ -19,6 +19,8 @@ Reasonable resources you will actually use!
 - [torchaudio](https://github.com/pytorch/audio): Data manipulation and transformation for audio signal processing, powered by PyTorch
 - [nlpaug](https://github.com/makcedward/nlpaug): Data augmentation for NLP. This has spectrogram and audio input support. Check [this](https://github.com/makcedward/nlpaug/blob/master/example/spectrogram_augmenter.ipynb) and [this](https://github.com/makcedward/nlpaug/blob/master/example/audio_augmenter.ipynb)
 - [pedalboard](https://github.com/spotify/pedalboard): Spotify's Python library for working with audio. Internally, SPotify uses this for data augmentation and improving machine learning models.
+- [Deezer](https://github.com/deezer/spleeter):Deezer source separation library including pretrained models.
+- [Basic Pitch](https://github.com/spotify/basic-pitch): A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 
 
 ## Getting Started
