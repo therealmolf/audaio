@@ -18,7 +18,7 @@ Reasonable resources you will actually use!
 ### Data Transformation and Manipulation
 - [torchaudio](https://github.com/pytorch/audio): Data manipulation and transformation for audio signal processing, powered by PyTorch
 - [nlpaug](https://github.com/makcedward/nlpaug): Data augmentation for NLP. This has spectrogram and audio input support. Check [this](https://github.com/makcedward/nlpaug/blob/master/example/spectrogram_augmenter.ipynb) and [this](https://github.com/makcedward/nlpaug/blob/master/example/audio_augmenter.ipynb)
-- [pedalboard](https://github.com/spotify/pedalboard): A Python library for working with audio. Internally at Spotify, pedalboard is used for data augmentation to improve machine learning models. pedalboard also helps in the process of content creation, making it possible to add effects to audio without using a Digital Audio Workstation.
+- [pedalboard](https://github.com/spotify/pedalboard): Spotify's Python library for working with audio. Internally, SPotify uses this for data augmentation and improving machine learning models.
 
 
 ## Getting Started
