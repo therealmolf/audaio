@@ -1,5 +1,6 @@
 # audaio
 A practical compilation of libraries, case studies, resources, datasets, and research papers revolving around deep learning/machine learning for audio. 🎶🎶🎶
+Reasonable resources you will actually use!
 
 ## Datasets
 - [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
