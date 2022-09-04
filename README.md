@@ -8,9 +8,12 @@ Reasonable resources you will actually use!
 
 
 ## Libraries
+### End-to-end Toolkits
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech): an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech): Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting.
 - [NeMo](https://github.com/NVIDIA/NeMo): a toolkit for conversaional AI
+### Data Transformation and Manipulation
+- [torchaudio](https://github.com/pytorch/audio): Data manipulation and transformation for audio signal processing, powered by PyTorch
 
 
 ## Getting Started + Theory
