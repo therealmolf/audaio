@@ -4,7 +4,7 @@ Reasonable resources you will actually use!
 
 ## Datasets
 - [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
-- Dataset 2
+- 
 
 
 ## Libraries
@@ -14,13 +14,12 @@ Reasonable resources you will actually use!
 - [NeMo](https://github.com/NVIDIA/NeMo): a toolkit for conversaional AI
 ### Data Transformation and Manipulation
 - [torchaudio](https://github.com/pytorch/audio): Data manipulation and transformation for audio signal processing, powered by PyTorch
+- [nlpaug](https://github.com/makcedward/nlpaug): Data augmentation for NLP. This has spectrogram and audio input support. Check [this](https://github.com/makcedward/nlpaug/blob/master/example/spectrogram_augmenter.ipynb) and [this](https://github.com/makcedward/nlpaug/blob/master/example/audio_augmenter.ipynb)
+- 
 
 
 ## Getting Started + Theory
 
-## Research Papers
-- [Vocal Effort Modeling](https://machinelearning.apple.com/research/vocal-effort-modeling)
-- [Improving Voice Trigger Detection](https://machinelearning.apple.com/research/improving-voice-trigger)
 ## Audio Generation
 * Learning Resource
 * Research Papers
@@ -35,3 +34,6 @@ Reasonable resources you will actually use!
 ## Music Information Retrieval
 ## Music Recommendation
 ## Podcast Summarization
+## Other Research Papers
+- [Vocal Effort Modeling](https://machinelearning.apple.com/research/vocal-effort-modeling)
+- [Improving Voice Trigger Detection](https://machinelearning.apple.com/research/improving-voice-trigger)
