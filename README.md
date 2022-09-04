@@ -34,8 +34,8 @@ Reasonable resources you will actually use!
 
 
 ## Audio Generation
-* Learning Resource
-* Research Papers
+### Learning Resource
+### Research Papers
 ## Music Source Separation
 ## Genre Recognition
 ## Automatic Speech Recognition
@@ -50,3 +50,8 @@ Reasonable resources you will actually use!
 ## Other Research Papers
 - [Vocal Effort Modeling](https://machinelearning.apple.com/research/vocal-effort-modeling)
 - [Improving Voice Trigger Detection](https://machinelearning.apple.com/research/improving-voice-trigger)
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
