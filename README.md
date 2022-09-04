@@ -2,6 +2,9 @@
 A practical compilation of libraries, case studies, resources, datasets, and research papers revolving around deep learning/machine learning for audio. 🎶🎶🎶
 Reasonable resources you will actually use!
 
+## Audio ML Landscape Map
+- I will add this very soon!
+
 ## Datasets
 - [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 - 
@@ -15,10 +18,13 @@ Reasonable resources you will actually use!
 ### Data Transformation and Manipulation
 - [torchaudio](https://github.com/pytorch/audio): Data manipulation and transformation for audio signal processing, powered by PyTorch
 - [nlpaug](https://github.com/makcedward/nlpaug): Data augmentation for NLP. This has spectrogram and audio input support. Check [this](https://github.com/makcedward/nlpaug/blob/master/example/spectrogram_augmenter.ipynb) and [this](https://github.com/makcedward/nlpaug/blob/master/example/audio_augmenter.ipynb)
-- 
 
 
-## Getting Started + Theory
+## Getting Started
+- How to use librosa, one end-to-end tooklkit, torchaudio
+- Fundamental papers related to audio deep learning
+- Guided walkthroughs from data preparation to deployment
+
 
 ## Audio Generation
 * Learning Resource
