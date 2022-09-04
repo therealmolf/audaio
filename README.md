@@ -1,5 +1,5 @@
 # audaio
-A compilation of libraries, case studies, resources, datasets, and research papers revolving around deep learning/machine learning for audio
+A practical compilation of libraries, case studies, resources, datasets, and research papers revolving around deep learning/machine learning for audio. 🎶🎶🎶
 
 ## Libraries
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech): an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
