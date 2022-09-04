@@ -1,9 +1,15 @@
 # audaio
 A practical compilation of libraries, case studies, resources, datasets, and research papers revolving around deep learning/machine learning for audio. 🎶🎶🎶
 
+## Datasets
+- [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
+- Dataset 2
+
+
 ## Libraries
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech): an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech): Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting.
+
 
 ## Getting Started + Theory
 
@@ -24,7 +30,3 @@ A practical compilation of libraries, case studies, resources, datasets, and res
 ## Music Information Retrieval
 ## Music Recommendation
 ## Podcast Summarization
-
-## Datasets
-- [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
-- Dataset 2
