@@ -15,6 +15,7 @@ Reasonable resources you will actually use!
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech): an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech): Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting.
 - [NeMo](https://github.com/NVIDIA/NeMo): a toolkit for conversaional AI
+- [Speech Brain](https://github.com/speechbrain/speechbrain): an open-source and all-in-one conversational AI toolkit based on PyTorch.
 ### Data Transformation and Manipulation
 - [torchaudio](https://github.com/pytorch/audio): Data manipulation and transformation for audio signal processing, powered by PyTorch
 - [nlpaug](https://github.com/makcedward/nlpaug): Data augmentation for NLP. This has spectrogram and audio input support. Check [this](https://github.com/makcedward/nlpaug/blob/master/example/spectrogram_augmenter.ipynb) and [this](https://github.com/makcedward/nlpaug/blob/master/example/audio_augmenter.ipynb)
@@ -22,6 +23,8 @@ Reasonable resources you will actually use!
 - [Deezer](https://github.com/deezer/spleeter):Deezer source separation library including pretrained models.
 - [Basic Pitch](https://github.com/spotify/basic-pitch): A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 
+## Comparisons
+- Best library for certain tasks? Where to focus and when learning tools?
 
 ## Getting Started
 - How to use librosa, one end-to-end tooklkit, torchaudio
