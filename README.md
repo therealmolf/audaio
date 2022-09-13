@@ -7,7 +7,7 @@ Reasonable resources you will actually use!
 
 ## Datasets
 - [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
-- 
+- [NSynth Dataset](https://magenta.tensorflow.org/datasets/nsynth)
 
 
 ## Libraries
